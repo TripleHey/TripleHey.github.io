@@ -1,0 +1,28 @@
+---
+---
+
+@import "minima";
+
+body{
+	background: #00000000;
+}
+
+html{
+  background: linear-gradient(#277BB6, #31ABDF);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+img{
+  margin-left: auto;
+  margin-right: auto;
+}
